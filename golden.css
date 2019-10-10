@@ -7,7 +7,7 @@
 }
 
 header{
-	background: url(../web/img/first-bg.jpg) no-repeat center top/cover;
+	background: url(img/first-bg.jpg) no-repeat center top/cover;
 	padding-bottom: 160px;
 	position: relative;
 
@@ -26,7 +26,7 @@ cursor: pointer;
 nav{
 	margin-top: 45px;
 	margin-left: 60px;
-	
+
 }
 
 div{
@@ -80,7 +80,7 @@ li{
 button{
 	text-transform: uppercase;
 	background-color: #fed136;
-	width:240px; 
+	width:240px;
 	height:63px;
 	border-radius: 5px;
 	border: none;
@@ -96,7 +96,7 @@ button{
 }
 
 .title{
-	
+
 	margin-top: 125px;
 }
 
@@ -120,7 +120,7 @@ text-align: center;
 	justify-content: space-between;
 	margin-right: 30px;
 	padding-bottom: 120px;
-	
+
 }
 .service_block{
 	margin-left: 60px;
@@ -216,7 +216,7 @@ white-space: pre;
 	text-align: left;
 	font-size: 18px;
 	text-transform: uppercase;
-	
+
 }
 
 .right_title>h4{
@@ -238,7 +238,7 @@ footer{
 #copy_right>p{
 	font-size: 14px;
 	text-align: center;
-	margin-right:60px; 
+	margin-right:60px;
 }
 #menu{
 	width: 30px;
@@ -247,7 +247,7 @@ footer{
 	right: 30px;
 	top: 40px;
 	cursor: pointer;
-	
+
 }
 
 #menu.move{
@@ -278,8 +278,8 @@ margin-left: 40px;
 #sidebar>ul>li{
 	color: #fff;
 	margin-top: 20px;
-	
-	
+
+
 }
 
 #sidebar>ul>li:hover{
